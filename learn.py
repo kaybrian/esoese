@@ -43,9 +43,13 @@ def get_user_input():
 get_user_input()
 
 
+'''.
+
+this is the end result of the code 
 user_data = {
     subject:{
         question:answer,
         question:answer,    
     }
 }
+'''
